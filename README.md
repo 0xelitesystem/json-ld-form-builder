@@ -1,8 +1,8 @@
-# JSON-LD Schema Builder
+# JSON-LD Form Builder
 
 This tool builds valid JSON-LD structured data for a local business, organization, software application, or article. You pick a type, fill the fields, and it outputs a ready-to-paste script block that labels your page's content for search and AI systems.
 
-**Live demo:** https://0xelitesystem.github.io/json-ld-schema-builder/
+**Live demo:** https://0xelitesystem.github.io/json-ld-form-builder/
 
 ## What it does
 
@@ -34,8 +34,8 @@ Everything runs in your browser. Nothing you type is sent anywhere, stored, or s
 Open `index.html` in any modern browser, or host it as a static page. No build step, no dependencies, no network calls.
 
 ```
-git clone https://github.com/0xelitesystem/json-ld-schema-builder
-cd json-ld-schema-builder
+git clone https://github.com/0xelitesystem/json-ld-form-builder
+cd json-ld-form-builder
 ```
 
 Then open `index.html`, or serve the folder with `python -m http.server` and visit http://localhost:8000.
